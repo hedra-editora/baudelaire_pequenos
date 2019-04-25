@@ -1,12 +1,11 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Introdução, por Dirceu Villa}{11}
+\contentsline {chapter}{Introdução, por Dirceu Villa}{10}
+\contentsline {chapter}{Pequenos poemas em prosa}{33}
 \select@language {brazilian}
 \select@language {brazilian}
 \select@language {french}
-\contentsline {section}{Petits poèmes en prose\penalty -\@M (le spleen de paris)}{34}
 \select@language {brazilian}
-\contentsline {section}{Pequenos poemas em prosa\penalty -\@M (o spleen de paris)\FN@sf@gobble@optonly {}}{35}
 \contentsline {section}{\numberline {0.1}L’étranger}{38}
 \contentsline {section}{\numberline {0.1}O estrangeiro}{39}
 \contentsline {section}{\numberline {0.2}Le désespoir de la veille}{40}
@@ -17,96 +16,96 @@
 \contentsline {section}{\numberline {0.4}Um engraçadinho}{45}
 \contentsline {section}{\numberline {0.5}La chambre double}{46}
 \contentsline {section}{\numberline {0.5}O quarto duplo}{47}
-\contentsline {section}{\numberline {0.6}Cada qual com sua quimera}{53}
 \contentsline {section}{\numberline {0.6}Chacun sa chimère}{54}
-\contentsline {section}{\numberline {0.7}O louco e a vênus}{57}
+\contentsline {section}{\numberline {0.6}Cada qual com sua quimera}{55}
 \contentsline {section}{\numberline {0.7}Le fou et la vénus}{58}
-\contentsline {section}{\numberline {0.8}O cão e o frasco}{59}
+\contentsline {section}{\numberline {0.7}O louco e a vênus}{59}
 \contentsline {section}{\numberline {0.8}Le chien et le flacon}{60}
-\contentsline {section}{\numberline {0.9}O mau vidraceiro}{61}
+\contentsline {section}{\numberline {0.8}O cão e o frasco}{61}
 \contentsline {section}{\numberline {0.9}Le mauvais vitrier}{62}
-\contentsline {section}{\numberline {0.10}À uma hora da manhã}{69}
+\contentsline {section}{\numberline {0.9}O mau vidraceiro}{63}
 \contentsline {section}{\numberline {0.10}A une heure du matin}{70}
-\contentsline {section}{\numberline {0.11}A mulher selvagem e a pequena"-amante}{73}
+\contentsline {section}{\numberline {0.10}À uma hora da manhã}{71}
 \contentsline {section}{\numberline {0.11}La femme sauvage et la petite{}-maitresse}{74}
-\contentsline {section}{\numberline {0.12}As massas}{83}
-\contentsline {section}{\numberline {0.12}Les foules}{84}
-\contentsline {section}{\numberline {0.13}As viúvas}{87}
-\contentsline {section}{\numberline {0.13}Les veuves}{88}
-\contentsline {section}{\numberline {0.14}O velho saltimbanco}{95}
-\contentsline {section}{\numberline {0.14}Le vieux saltimbanque}{96}
-\contentsline {section}{\numberline {0.15}O bolo}{101}
-\contentsline {section}{\numberline {0.15}Le gâteau}{102}
-\contentsline {section}{\numberline {0.16}O relógio}{107}
-\contentsline {section}{\numberline {0.16}L’horloge}{108}
-\contentsline {section}{\numberline {0.17}Um hemisfério numa cabeleira}{111}
-\contentsline {section}{\numberline {0.17}Un hémisphère dans une chevelure}{112}
-\contentsline {section}{\numberline {0.18}Convite à viagem}{115}
-\contentsline {section}{\numberline {0.18}L’invitation au voyage}{116}
-\contentsline {section}{\numberline {0.19}O brinquedo do pobre}{121}
-\contentsline {section}{\numberline {0.19}Le joujou du pauvre}{122}
-\contentsline {section}{\numberline {0.20}Os dons das fadas}{125}
-\contentsline {section}{\numberline {0.20}Les dons des fées}{126}
+\contentsline {section}{\numberline {0.11}A mulher selvagem e a pequena"-amante}{75}
+\contentsline {section}{\numberline {0.12}Les foules}{80}
+\contentsline {section}{\numberline {0.12}As massas}{81}
+\contentsline {section}{\numberline {0.13}Les veuves}{84}
+\contentsline {section}{\numberline {0.13}As viúvas}{85}
+\contentsline {section}{\numberline {0.14}Le vieux saltimbanque}{92}
+\contentsline {section}{\numberline {0.14}O velho saltimbanco}{93}
+\contentsline {section}{\numberline {0.15}Le gâteau}{98}
+\contentsline {section}{\numberline {0.15}O bolo}{99}
+\contentsline {section}{\numberline {0.16}L’horloge}{104}
+\contentsline {section}{\numberline {0.16}O relógio}{105}
+\contentsline {section}{\numberline {0.17}Un hémisphère dans une chevelure}{108}
+\contentsline {section}{\numberline {0.17}Um hemisfério numa cabeleira}{109}
+\contentsline {section}{\numberline {0.18}L’invitation au voyage}{112}
+\contentsline {section}{\numberline {0.18}Convite à viagem}{113}
+\contentsline {section}{\numberline {0.19}Le joujou du pauvre}{118}
+\contentsline {section}{\numberline {0.19}O brinquedo do pobre}{119}
+\contentsline {section}{\numberline {0.20}Les dons des fées}{122}
+\contentsline {section}{\numberline {0.20}Os dons das fadas}{123}
+\contentsline {section}{\numberline {0.21}Les tentations, ou éros, plutus et la gloire}{130}
 \contentsline {section}{\numberline {0.21}As tentações, ou eros, pluto e a grória}{131}
-\contentsline {section}{\numberline {0.21}Les tentations, ou éros, plutus et la gloire}{134}
+\contentsline {section}{\numberline {0.22}Le crépuscule du soir}{140}
 \contentsline {section}{\numberline {0.22}O crepúsculo da tarde}{141}
-\contentsline {section}{\numberline {0.22}Le crépuscule du soir}{144}
+\contentsline {section}{\numberline {0.23}La solitude}{146}
 \contentsline {section}{\numberline {0.23}A solidão}{147}
-\contentsline {section}{\numberline {0.23}La solitude}{150}
+\contentsline {section}{\numberline {0.24}Les projets}{150}
 \contentsline {section}{\numberline {0.24}Os projetos}{151}
-\contentsline {section}{\numberline {0.24}Les projets}{154}
+\contentsline {section}{\numberline {0.25}La belle Dorothée}{154}
 \contentsline {section}{\numberline {0.25}A bela Dorothée}{155}
-\contentsline {section}{\numberline {0.25}La belle Dorothée}{158}
+\contentsline {section}{\numberline {0.26}Les yeux des pauvres}{160}
 \contentsline {section}{\numberline {0.26}Os olhos dos pobres}{161}
-\contentsline {section}{\numberline {0.26}Les yeux des pauvres}{164}
-\contentsline {section}{\numberline {0.27}Uma morte heroica}{165}
-\contentsline {section}{\numberline {0.27}Une mort héroique}{170}
-\contentsline {section}{\numberline {0.28}A moeda falsa}{177}
-\contentsline {section}{\numberline {0.29}O jogador generoso}{181}
-\contentsline {section}{\numberline {0.28}La fausse monnaie}{182}
-\contentsline {section}{\numberline {0.29}Le joueur généreux}{188}
-\contentsline {section}{\numberline {0.30}A corda}{191}
-\contentsline {section}{\numberline {0.30}La corde}{198}
-\contentsline {section}{\numberline {0.31}As vocações}{201}
-\contentsline {section}{\numberline {0.31}Les vocations}{208}
-\contentsline {section}{\numberline {0.32}O tirso}{211}
-\contentsline {section}{\numberline {0.33}Embriaguem-se}{215}
-\contentsline {section}{\numberline {0.34}Já!?}{217}
-\contentsline {section}{\numberline {0.32}Le thyrse}{218}
-\contentsline {section}{\numberline {0.35}As janelas}{221}
-\contentsline {section}{\numberline {0.33}Enivrez-vous}{222}
-\contentsline {section}{\numberline {0.36}O desejo de pintar}{223}
-\contentsline {section}{\numberline {0.34}Déjà!}{224}
-\contentsline {section}{\numberline {0.37}Os favores da lua}{227}
-\contentsline {section}{\numberline {0.35}Les fenêtres}{228}
-\contentsline {section}{\numberline {0.36}Le désir de peindre}{230}
-\contentsline {section}{\numberline {0.38}Qual será a verdadeira?}{233}
-\contentsline {section}{\numberline {0.37}Les bienfaits de la lune}{234}
-\contentsline {section}{\numberline {0.39}Um cavalo de raça}{235}
-\contentsline {section}{\numberline {0.40}O espelho}{237}
-\contentsline {section}{\numberline {0.41}O porto}{239}
-\contentsline {section}{\numberline {0.38}Laquelle est la vraie?}{240}
-\contentsline {section}{\numberline {0.42}Retratos de amantes}{241}
-\contentsline {section}{\numberline {0.39}Un cheval de race}{242}
-\contentsline {section}{\numberline {0.40}Le miroir}{244}
-\contentsline {section}{\numberline {0.41}Le port}{246}
-\contentsline {section}{\numberline {0.42}Portraits de maîtresses}{248}
-\contentsline {section}{\numberline {0.43}O galante atirador}{253}
-\contentsline {section}{\numberline {0.44}A sopa e as nuvens}{255}
-\contentsline {section}{\numberline {0.45}O tiro e o cemitério}{257}
-\contentsline {section}{\numberline {0.43}Le galant tireur}{260}
-\contentsline {section}{\numberline {0.46}A perda de auréola}{261}
-\contentsline {section}{\numberline {0.44}La soupe et les nuages}{262}
-\contentsline {section}{\numberline {0.47}Senhorita bisturi}{263}
-\contentsline {section}{\numberline {0.45}Le tir et le cimetière}{264}
-\contentsline {section}{\numberline {0.46}Perte d’auréole}{268}
-\contentsline {section}{\numberline {0.47}Mademoiselle bistouri}{270}
-\contentsline {section}{\numberline {0.48}Any where out of the world, qualquer lugar fora do mundo}{273}
-\contentsline {section}{\numberline {0.49}Espanquemos os pobres!}{277}
-\contentsline {section}{\numberline {0.48}Anywhere out of the world (n’importe où hors du monde)}{280}
-\contentsline {section}{\numberline {0.50}Os bons cães}{283}
-\contentsline {section}{\numberline {0.49}Assommons les pauvres!}{284}
-\contentsline {section}{\numberline {0.50}Les bons chiens}{290}
-\contentsline {section}{\numberline {0.51}Epílogo}{293}
-\contentsline {section}{\numberline {0.51}Épilogue}{300}
+\contentsline {section}{\numberline {0.27}Une mort héroique}{166}
+\contentsline {section}{\numberline {0.27}Uma morte heroica}{167}
+\contentsline {section}{\numberline {0.28}La fausse monnaie}{178}
+\contentsline {section}{\numberline {0.28}A moeda falsa}{179}
+\contentsline {section}{\numberline {0.29}Le joueur généreux}{184}
+\contentsline {section}{\numberline {0.29}O jogador generoso}{185}
+\contentsline {section}{\numberline {0.30}La corde}{194}
+\contentsline {section}{\numberline {0.30}A corda}{195}
+\contentsline {section}{\numberline {0.31}Les vocations}{204}
+\contentsline {section}{\numberline {0.31}As vocações}{205}
+\contentsline {section}{\numberline {0.32}Le thyrse}{214}
+\contentsline {section}{\numberline {0.32}O tirso}{215}
+\contentsline {section}{\numberline {0.33}Enivrez-vous}{218}
+\contentsline {section}{\numberline {0.33}Embriaguem-se}{219}
+\contentsline {section}{\numberline {0.34}Déjà!}{220}
+\contentsline {section}{\numberline {0.34}Já!?}{221}
+\contentsline {section}{\numberline {0.35}Les fenêtres}{224}
+\contentsline {section}{\numberline {0.35}As janelas}{225}
+\contentsline {section}{\numberline {0.36}Le désir de peindre}{226}
+\contentsline {section}{\numberline {0.36}O desejo de pintar}{227}
+\contentsline {section}{\numberline {0.37}Les bienfaits de la lune}{230}
+\contentsline {section}{\numberline {0.37}Os favores da lua}{231}
+\contentsline {section}{\numberline {0.38}Laquelle est la vraie?}{234}
+\contentsline {section}{\numberline {0.38}Qual será a verdadeira?}{235}
+\contentsline {section}{\numberline {0.39}Un cheval de race}{236}
+\contentsline {section}{\numberline {0.39}Um cavalo de raça}{237}
+\contentsline {section}{\numberline {0.40}Le miroir}{238}
+\contentsline {section}{\numberline {0.40}O espelho}{239}
+\contentsline {section}{\numberline {0.41}Le port}{240}
+\contentsline {section}{\numberline {0.41}O porto}{241}
+\contentsline {section}{\numberline {0.42}Portraits de maîtresses}{242}
+\contentsline {section}{\numberline {0.42}Retratos de amantes}{243}
+\contentsline {section}{\numberline {0.43}Le galant tireur}{254}
+\contentsline {section}{\numberline {0.43}O galante atirador}{255}
+\contentsline {section}{\numberline {0.44}La soupe et les nuages}{256}
+\contentsline {section}{\numberline {0.44}A sopa e as nuvens}{257}
+\contentsline {section}{\numberline {0.45}Le tir et le cimetière}{258}
+\contentsline {section}{\numberline {0.45}O tiro e o cemitério}{259}
+\contentsline {section}{\numberline {0.46}Perte d’auréole}{262}
+\contentsline {section}{\numberline {0.46}A perda de auréola}{263}
+\contentsline {section}{\numberline {0.47}Mademoiselle bistouri}{264}
+\contentsline {section}{\numberline {0.47}Senhorita bisturi}{265}
+\contentsline {section}{\numberline {0.48}Anywhere out of the world (n’importe où hors du monde)}{274}
+\contentsline {section}{\numberline {0.48}Any where out of the world, qualquer lugar fora do mundo}{275}
+\contentsline {section}{\numberline {0.49}Assommons les pauvres!}{278}
+\contentsline {section}{\numberline {0.49}Espanquemos os pobres!}{279}
+\contentsline {section}{\numberline {0.50}Les bons chiens}{284}
+\contentsline {section}{\numberline {0.50}Os bons cães}{285}
+\contentsline {section}{\numberline {0.51}Épilogue}{294}
+\contentsline {section}{\numberline {0.51}Epílogo}{295}
 \contentsfinish 
