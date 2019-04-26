@@ -22,8 +22,8 @@
 
 \newcommand{\quebra}{\vfil\pagebreak}
 
-\usepackage{endnotes}
-\renewcommand{\notesname}{Notas}
+%\usepackage{endnotes}
+%\renewcommand{\notesname}{Notas}
 
 %\usepackage{fancyhdr}
 %\pagestyle{fancy}
@@ -141,7 +141,6 @@ BoldFont = Formular-Bold.otf]
 %  [#1\hfil\hbox{}\protect\linebreak{\itshape#1}]%
 %  {#1\\[2ex]\Large\itshape#2}%
 %}
-\usepackage{titletoc}
 
 \begin{document}
 %\include{INPUTS}
@@ -150,8 +149,9 @@ BoldFont = Formular-Bold.otf]
 \begin{Parallel}[p]{}{} 
 \ParallelLText{\selectlanguage{french} \input{FRANCES}} 
 \ParallelRText{\setcounter{section}{0} \input{PORTUGUES}} %
-\end{Parallel} 
 
+\renewcommand{\ParallelAtEnd}{\noindent{}\vspace{1cm}\Large{Notas}}
+\end{Parallel} 
 
  \pagebreak
  \def\contentsname{Índice}
