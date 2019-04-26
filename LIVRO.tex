@@ -80,7 +80,7 @@ BoldFont = Formular-Bold.otf]
 %\renewcommand\indexname{Índice onomástico}
 %\makeindex[intoc]
 
-\setcounter{tocdepth}{1}
+\setcounter{tocdepth}{0}
 \setcounter{secnumdepth}{-2} 
 %\linespread{1.08}
 \usepackage{commands}
@@ -141,6 +141,7 @@ BoldFont = Formular-Bold.otf]
 %  [#1\hfil\hbox{}\protect\linebreak{\itshape#1}]%
 %  {#1\\[2ex]\Large\itshape#2}%
 %}
+\usepackage{titletoc}
 
 \begin{document}
 %\include{INPUTS}
@@ -151,13 +152,11 @@ BoldFont = Formular-Bold.otf]
 \ParallelRText{\setcounter{section}{0} \input{PORTUGUES}} %
 \end{Parallel} 
 
-%\newpage
- %    \begingroup
-  %   \parindent 0pt
-   %  \parskip 2ex
-    % \def\enotesize{\normalsize}
-     %\theendnotes
-     %\endgroup
+
+ \pagebreak
+ \def\contentsname{Índice}
+ \setcounter{tocdepth}{1}
+ \tableofcontents
 
 %\pagebreak
 %\addcontentsline{toc}{chapter}{Notas}
