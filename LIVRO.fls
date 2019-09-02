@@ -1,4 +1,4 @@
-PWD /home/editorial/LATEX/baudelaire_pequenos
+PWD /home/editorial/LATEX/COLECAO_HEDRA/baudelaire_pequenos
 INPUT /var/lib/texmf/web2c/luatex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
