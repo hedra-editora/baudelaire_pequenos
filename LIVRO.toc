@@ -1,6 +1,6 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Introdução, por Dirceu Villa}{6}
+\contentsline {chapter}{Introdução, \emph {por Dirceu Villa}}{6}
 \contentsline {part}{Pequenos poemas em prosa}{29}
 \select@language {brazilian}
 \select@language {brazilian}
