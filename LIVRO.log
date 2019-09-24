@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  16 SEP 2019 13:38
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  24 SEP 2019 17:44
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.305 seconds
+luaotfload | main : initialization completed in 0.232 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1880,67 +1880,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 3592--3595
  []
 
 ) (./PORTUGUES.tex
-Underfull \hbox (badness 10000) in paragraph at lines 958--961
+Underfull \hbox (badness 10000) in paragraph at lines 954--957
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1132--1135
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1287--1290
+Underfull \hbox (badness 10000) in paragraph at lines 1283--1286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1789--1794
+Underfull \hbox (badness 10000) in paragraph at lines 1785--1790
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1812--1821
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1817
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1906--1911
+Underfull \hbox (badness 10000) in paragraph at lines 1902--1907
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1970--1978
+Underfull \hbox (badness 10000) in paragraph at lines 1966--1974
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2168--2179
+Underfull \hbox (badness 10000) in paragraph at lines 2164--2175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2440--2445
+Underfull \hbox (badness 10000) in paragraph at lines 2436--2441
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2680--2684
+Underfull \hbox (badness 10000) in paragraph at lines 2676--2680
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2950--2953
+Underfull \hbox (badness 10000) in paragraph at lines 2946--2949
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3200--3206
+Underfull \hbox (badness 10000) in paragraph at lines 3194--3200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3282--3285
+Underfull \hbox (badness 10000) in paragraph at lines 3276--3279
 
  []
 
@@ -1994,10 +1994,10 @@ Here is how much of LuaTeX's memory you used:
  12591 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1201 glue, 1 penalty, 1228 attribute, 194 glue_spec
 , 307 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:6,2:6476,3:7742,4:2791,5:17774,6:290847,7:62821,8:141,9:7148,1
+   avail lists: 1:6,2:6476,3:7742,4:2791,5:17774,6:290847,7:62822,8:141,9:7148,1
 0:23,11:27459
  27385 multiletter control sequences out of 65536+600000
- 120 fonts using 22608207 bytes
+ 120 fonts using 22608135 bytes
  50i,14n,70p,1369b,542s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/editorial/
 texmf/tex/fonts/Formular-Regular.otf></usr/share/texmf-dist/fonts/opentype/publi
@@ -2006,7 +2006,7 @@ ertine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertin
 e/LinLibertine_R.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/sh
 are/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (314 pages, 734748 bytes).
+Output written on LIVRO.pdf (314 pages, 735002 bytes).
 
 PDF statistics: 1033 PDF objects out of 1200 (max. 8388607)
  693 compressed objects within 7 object streams
