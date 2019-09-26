@@ -21,6 +21,8 @@
 
 \linespread{1.15}
 
+\newcommand{\paragraphbr}[1]{\vfill\pagebreak\paragraph{#1}}
+\renewcommand\theparagraph{\Roman{paragraph}}
 \newcommand{\quebra}{\vfil\pagebreak}
 
 %\usepackage{endnotes}
@@ -83,6 +85,10 @@ BoldFont = Formular-Bold.otf]
 
 \setcounter{tocdepth}{0}
 \setcounter{secnumdepth}{-2} 
+%\renewcommand \thesection {\thechapter.\Roman\c@section}
+%\renewcommand{\thesection}{\arabic{section}}
+
+
 %\linespread{1.08}
 \usepackage{commands}
 
