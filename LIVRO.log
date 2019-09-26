@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  26 SEP 2019 17:25
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  26 SEP 2019 18:26
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.295 seconds
+luaotfload | main : initialization completed in 0.283 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1935,12 +1935,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2947--2950
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3195--3201
+Underfull \hbox (badness 10000) in paragraph at lines 3194--3200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3277--3280
+Underfull \hbox (badness 10000) in paragraph at lines 3276--3279
 
  []
 
@@ -1967,12 +1967,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 3277--3280
 [259] [260] [261] [262] [263] [264] [265] [266] [267] [268] [269] [270]
 [271] [272] [273] [274] [275] [276] [277] [278] [279] [280] [281] [282]
 [283] [284] [285] [286] [287] [288] [289] [290] [291] [292] [293] [294]
-[295] [296] [297] [298] [299] [300] [301] (./LIVRO.toc)
-
+[295] [296] (./LIVRO.toc [297] [298] [299]) 
 AED: lastpage setting LastPage
-[302]
+[300]
 \openout2 = PUBLICIDADE.aux
- (./PUBLICIDADE.tex [303
+ (./PUBLICIDADE.tex [301
 
 
 ]
@@ -1980,8 +1979,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-[304] [305] [306] [307] [308] [309] [310] [311] [312] [313] [314] [315])
-[316
+[302] [303] [304] [305] [306] [307] [308] [309] [310] [311] [312] [313])
+[314
 
 ]
 \tf@toc=\write5
@@ -1990,16 +1989,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
  (./LIVRO.aux (./INTRO.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24515 strings out of 494472
- 2842839,794899 words of node,token memory allocated
- 12612 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 1204 glue, 1 penalty, 1228 attribute, 194 glue_spec
+ 24512 strings out of 494472
+ 2842877,794899 words of node,token memory allocated
+ 12591 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 1201 glue, 1 penalty, 1228 attribute, 194 glue_spec
 , 307 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:5,2:7476,3:7762,4:2889,5:17891,6:292912,7:63385,8:55,9:7355,10
-:21,11:27629
- 27387 multiletter control sequences out of 65536+600000
- 120 fonts using 22562895 bytes
- 50i,14n,70p,1369b,470s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:7,2:6476,3:7744,4:2839,5:17774,6:290691,7:62820,8:141,9:7148,1
+0:21,11:27458
+ 27386 multiletter control sequences out of 65536+600000
+ 120 fonts using 22608207 bytes
+ 50i,14n,70p,1369b,542s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/editorial/
 texmf/tex/fonts/Formular-Regular.otf></usr/share/texmf-dist/fonts/opentype/publi
 c/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/public/lib
@@ -2007,10 +2006,10 @@ ertine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertin
 e/LinLibertine_R.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/sh
 are/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (316 pages, 730825 bytes).
+Output written on LIVRO.pdf (314 pages, 734423 bytes).
 
-PDF statistics: 1039 PDF objects out of 1200 (max. 8388607)
- 697 compressed objects within 7 object streams
+PDF statistics: 1033 PDF objects out of 1200 (max. 8388607)
+ 693 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
